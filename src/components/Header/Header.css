@@ -1,0 +1,8 @@
+#header {
+  height: 5vw;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.66vw 6.66vw 0.55vw 6.66vw;
+  width: 100%;
+}
