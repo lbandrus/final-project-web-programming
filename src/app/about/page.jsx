@@ -3,7 +3,7 @@ import Footer from "@/components/Footer/Footer";
 import "./About.css";
 
 export const metadata = {
-  title: "I'm Jane. I live in New York City, Where I develop the future.",
+  title: "I'm Logan. I live in New York City, Where I develop the future.",
   paragraph1:
     "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
   paragraph2:
