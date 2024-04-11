@@ -14,42 +14,42 @@ export const metadata = {
 
 const articles = [
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "March, 17 2024",
+    title: "Associate Software Test Engineer",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
-    link: "#",
+      "I showed that I could be a SET and was promoted to an Associate Software Test Engineer. I was responsible for writing test cases, executing test cases, and reporting bugs.",
+    link: "https://www.linkedin.com/in/logan-andrus-0a244690/",
   },
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "April 16, 2023",
+    title: "Software Engineer in Test Apprentice",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
-    link: "#",
+      "I was hired as a Software Engineer in Test Apprentice. I was responsible for writing test cases, executing test cases, and reporting bugs.",
+    link: "https://www.linkedin.com/in/logan-andrus-0a244690/",
   },
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "January 9, 2023",
+    title: "Software Engineer in Test Intern",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
-    link: "#",
+      "I was hired as a Software Engineer in Test Intern.",
+    link: "https://www.linkedin.com/in/logan-andrus-0a244690/",
   },
 ];
 
 const intro = {
-  image: "profile.jpeg",
-  title: "Software engineer, father, and believer",
+  image: "me.jpg",
+  title: "I am the Bug Crusher 9000!",
   introduction:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
-  linkedIn_link: "https://www.linkedin.com",
+    "I am a Software Test Engineer at O.C.Tanner. I am passionate about software testing and automation. I am always looking for ways to improve my skills and learn new things. I am a lifelong learner and I am always looking for ways to improve myself.",
+  linkedIn_link: "https://www.linkedin.com/in/logan-andrus-0a244690/",
   x_link: "https://www.twitter.com",
-  github_link: "https://www.github.com",
+  github_link: "https://github.com/lbandrus",
 };
 
 const skills = [
-  { name: "HTML", proficiency: 60, icon: "html5.png" },
-  { name: "CSS", proficiency: 50, icon: "css3.png" },
-  { name: "JavaScript", proficiency: 75, icon: "javascript.png" },
+  { name: "HTML", proficiency: 80, icon: "html5.png" },
+  { name: "CSS", proficiency: 25, icon: "css3.png" },
+  { name: "JavaScript", proficiency: 50, icon: "javascript.png" },
 ];
 
 export default function Home() {
@@ -87,32 +87,11 @@ export default function Home() {
             content={"My work experience."}
             experiences={[
               {
-                logo: "/slack.png",
-                organization: "Slack",
-                jobTitle: "Software Engineer",
-                startYear: 2016,
+                logo: "/oct.jpg",
+                organization: "O.C.Tanner",
+                jobTitle: "Software Test Engineer",
+                startYear: 2023,
                 endYear: null,
-              },
-              {
-                logo: "/spotify.png",
-                organization: "Spotify",
-                jobTitle: "Software Engineer",
-                startYear: 2014,
-                endYear: 2015,
-              },
-              {
-                logo: "/audible.png",
-                organization: "Audible",
-                jobTitle: "Software Engineer",
-                startYear: 2012,
-                endYear: 2013,
-              },
-              {
-                logo: "/microsoft.png",
-                organization: "Microsoft",
-                jobTitle: "Software Engineer",
-                startYear: 2010,
-                endYear: 2011,
               },
             ]}
           />
