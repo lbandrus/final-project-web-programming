@@ -9,7 +9,7 @@ const UsesSection = () => {
   const intro = {
     title: "Software I use, gadgets I love, and other things I recommend.",
     introduction:
-      "I use a lot of software and gadgets on a daily basis. Here are some of the things I use and recommend. I have also built my own computers as well.",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.",
   };
 
   const items = [
@@ -17,29 +17,34 @@ const UsesSection = () => {
       groupName: "Workstation",
       items: [
         {
-          title: "Ryzen 7 5800X",
+          title: "16” MacBook Pro, M1 Max, 64GB RAM (2022)",
           description:
-            "I built my own computer with a Ryzen 7 5800X. It’s fast, has great performance, and is highly customizable.",
+            "I was using an Intel-based 16” MacBook Pro prior to this and the difference is night and day. I’ve never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with our various launch simulations.",
         },
         {
-          title: "ASUS RTX 4080 Strix OC",
+          title: "Dell UltraSharp U2717D",
           description:
-            "This Graphics Card is great. It’s fast, and a beast at gaming.",
+            "I have two of these monitors and they’re great. I’ve had them for years and they’ve been rock solid.",
         },
         {
-          title: "Corsair Vengeance RGB Pro 32GB",
+          title: "Keychron K2",
           description:
-            "I have 32GB of Corsair Vengeance RGB Pro RAM. It’s fast, has great performance, and is highly customizable.",
+            "I’ve been using this keyboard for a few years now and I love it. It’s wireless, has a great feel, and the battery lasts forever.",
         },
         {
-          title: "Corsair H100i RGB Platinum",
+          title: "Logitech MX Master 3",
           description:
-            "I have a Corsair H100i RGB Platinum CPU Cooler. It is a great cooler and keeps my CPU cool.",
+            "I’ve been using this mouse for a few years now and it’s great. It’s wireless, has a great feel, and the battery lasts forever.",
         },
         {
-          title: "ASUS VG278QR 27” Gaming Monitor 165Hz",
+          title: "Audio-Technica ATH-M50x",
           description:
-            "This Monitor is great. It is a mid range monitor and has great performance.",
+            "I’ve been using these headphones for a few years now and they’re great. They’re comfortable, sound good, and are built like a tank.",
+        },
+        {
+          title: "Rain Design mStand",
+          description:
+            "I’ve been using this stand for my MacBook Pro for a few years now and it’s great. It’s sturdy, looks good, and keeps my laptop cool.",
         },
       ],
     },
@@ -47,9 +52,14 @@ const UsesSection = () => {
       groupName: "Development",
       items: [
         {
-          title: "PyCharm",
+          title: "Visual Studio Code",
           description:
-            "I use PyCharm as my IDE for Python. It has a lot of great features and works perfectly with Python.",
+            "I use VS Code for all of my development work. It’s fast, has great extensions, and is highly customizable.",
+        },
+        {
+          title: "iTerm2 + Oh My Zsh",
+          description:
+            "I use iTerm2 as my terminal and Oh My Zsh as my shell. It’s a great combination. I use the Agnoster theme with the Fira Code font.",
         },
       ],
     },
@@ -61,6 +71,11 @@ const UsesSection = () => {
           description:
             "I use Figma for all of my design work. It’s fast, has great collaboration features, and is highly customizable.",
         },
+        {
+          title: "Whimsical",
+          description:
+            "I use Whimsical for all of my wireframing and flowcharting. It’s fast, has great collaboration features, and is highly customizable.",
+        },
       ],
     },
     {
@@ -70,6 +85,11 @@ const UsesSection = () => {
           title: "Notion",
           description:
             "I use Notion for all of my note-taking and knowledge management. It’s fast, has great collaboration features, and is highly customizable.",
+        },
+        {
+          title: "Alfred",
+          description:
+            "I use Alfred for all of my productivity needs. It’s fast, has great features, and is highly customizable.",
         },
       ],
     },

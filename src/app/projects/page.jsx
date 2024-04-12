@@ -7,37 +7,37 @@ import "./Projects.css";
 export const metadata = {
   title: "Things I’ve made trying to put my dent in the universe.",
   description:
-    "Here are some of the projects I’ve worked on. I’m always looking for new projects to work on.",
+    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
   projects: [
     {
-      company: " Android Calculator",
-      description: "I made a calculator app for Android. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/Android_Calculator",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
     {
-      company: "Library Catalog",
-      description: "I made a library catalog app in Python. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/CSE310-LibraryCatalog",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
     {
-      company: "Black Jack",
-      description: "I made a Black Jack game in Python. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/BlackJack",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
     {
-      company: "Blog App",
-      description: "I made a blog app in Python using Django. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/webapp_blog",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
     {
-      company: "Greed Game",
-      description: "I made a Greed game in Python. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/Unit4",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
     {
-      company: "My first Website App",
-      description: "I made my first website app. It’s available on GitHub.",
-      link: "https://github.com/lbandrus/wdd130",
+      company: "Company",
+      description: "Creating technology to empower civilians to explore space on their own terms.",
+      link: "https://company.com",
     },
   ],
 };

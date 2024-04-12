@@ -3,13 +3,15 @@ import Footer from "@/components/Footer/Footer";
 import "./About.css";
 
 export const metadata = {
-  title: "I'm Logan. I work in Salt Lake City at O.C.Tanner where I crush one bug at a time.",
+  title: "I'm Logan. I live in New York City, Where I develop the future.",
   paragraph1:
-    "I am a dedicated and detail-oriented Software Test Engineer with a passion for enhancing software quality through comprehensive testing methodologies. With a solid foundation in computer science and hands-on experience in both manual and automated testing, I have developed a keen eye for detecting and resolving discrepancies that could impact user experience. My journey in the tech industry has equipped me with a deep understanding of software development life cycles, and I have a proven track record of collaborating effectively with development teams to ensure software reliability and performance.",
+    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
   paragraph2:
-    "In my experience, I have honed my skills in various testing frameworks and tools, including Selenium, JUnit, TestNG, and Postman, among others. My expertise extends to different testing methodologies, such as functional testing, regression testing, integration testing, and performance testing. I pride myself on my ability to adapt and learn rapidly, staying abreast of the latest technologies and testing practices. This adaptability has enabled me to contribute significantly to improving product quality in fast-paced and dynamic environments.",
+    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
   paragraph3:
-    "Beyond my technical skills, I am a strong advocate for the integration of testing early in the development process, believing that quality assurance is integral to successful software development. My approach to software testing is methodical and user-focused, ensuring that every product I work on meets the highest standards of quality and usability. I am eager to bring my expertise to new challenges and continue my growth as a Software Test Engineer, contributing to the development of innovative and flawless software solutions.",
+    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+  paragraph4:
+    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
 };
 
 export default function About() {
@@ -28,13 +30,16 @@ export default function About() {
         <div className="paragraph">
           <p>{metadata.paragraph3}</p>
         </div>
+        <div className="paragraph">
+          <p>{metadata.paragraph4}</p>
+        </div>
       </div>
       <div id="main_right">
         <div id="profile-picture">
-          <img src="snow.jpg" alt="Profile Picture" className="picture" />
+          <img src="about.jpeg" alt="Profile Picture" className="picture" />
         </div>
         <div className="socials">
-          <a href="https://www.twitter.com/">
+          <a href="https://www.twitter.com/janedoe">
             <svg
               width="20"
               height="20"
@@ -50,7 +55,7 @@ export default function About() {
             </svg>{" "}
             Follow me on X
           </a>
-          <a href="https://github.com/lbandrus">
+          <a href="https://www.github.com/janedoe">
             <svg
               width="20"
               height="20"
@@ -68,7 +73,7 @@ export default function About() {
             </svg>{" "}
             Follow me on GitHub
           </a>
-          <a href="https://www.linkedin.com/in/logan-andrus-0a244690/">
+          <a href="https://www.linkedin.com/in/jane-doe">
             <svg
               width="18"
               height="18"
@@ -86,7 +91,7 @@ export default function About() {
           </a>
         </div>
         <div className="email">
-          <a href="mailto:loganbandrus@gmail.com" id="email-a">
+          <a href="mailto:jhondo@gmail.com" id="email-a">
             <svg
               width="22"
               height="18"
