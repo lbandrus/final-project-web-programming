@@ -1,0 +1,40 @@
+#page-wrapper {
+  gap: 64px;
+}
+.uses-section {
+  display: grid;
+  grid-template-columns: auto 74%;
+  border-left: 1px solid var(--border-color);
+  padding-left: 32px;
+}
+
+.uses-section-title {
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: var(--highlight-color);
+}
+
+.uses-cards-container {
+  display: grid;
+  grid-template-rows: repeat(auto-fill, 1fr);
+  gap: 64px;
+}
+
+.uses-card {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  width: 100%;
+}
+
+.uses-card h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--highlight-color);
+}
+
+.uses-card p {
+  margin: 0;
+  color: var(--paragraph-color);
+}

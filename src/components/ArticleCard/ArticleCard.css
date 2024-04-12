@@ -1,0 +1,37 @@
+.article-card {
+  display: flex;
+  flex-direction: column;
+  width: 86%;
+  height: auto;
+}
+
+.article-card-header time {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: var(--light-text-color);
+  border-left: 4px solid var(--light-text-color);
+  padding-left: 8px;
+}
+
+.article-card-header h2 {
+  font-size: 24px;
+  text-transform: capitalize;
+  margin: 16px 0px;
+  font-weight: bold;
+  color: var(--highlight-color);
+}
+
+.article-card p {
+  font-size: 16px;
+  color: var(--paragraph-color);
+}
+
+.article-card a {
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--content-color);
+}
+
+.article-card a:hover {
+  text-decoration: underline;
+}

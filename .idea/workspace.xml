@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92c0dba0-f8ea-49db-8e25-0ef1d15bdc4d" name="Changes" comment="reverted changes after trying to publish">
+      <change afterPath="$PROJECT_DIR$/.devcontainer/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.devcontainer/config/dot.gitconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.devcontainer/config/dot.zshrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.devcontainer/devcontainer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.devcontainer/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.devcontainer/on-create.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/audible.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/oct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/profile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/snow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about/About.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/Projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/projects/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/uses/Uses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/uses/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ArticleCard/ArticleCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ArticleCard/ArticleCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DarkModeBotton/DarkModeBotton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DarkModeBotton/DarkModeBotton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Intro/Intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Intro/Intro.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/DropdownMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/MenuBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Project/Project.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Project/Project.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignupWidget/SignupWidget.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignupWidget/SignupWidget.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SkillsWidget/SkillsWidget.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SkillsWidget/SkillsWidget.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsesCard/UsesCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UsesCard/UsesCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WorkedWidget/WorkedWidget.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WorkedWidget/WorkedWidget.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/introduction/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/introduction/intro.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eqEGll45kycVSDFv7TNj5DhT2w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\logan\OneDrive\Documents\GitHub\final-project-web-programming\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c0dba0-f8ea-49db-8e25-0ef1d15bdc4d" name="Changes" comment="" />
+      <created>1712623618546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712623618546</updated>
+      <workItem from="1712623622735" duration="79000" />
+      <workItem from="1712623995796" duration="96000" />
+      <workItem from="1712704689650" duration="264000" />
+      <workItem from="1712793718669" duration="5256000" />
+      <workItem from="1712898288484" duration="2814000" />
+      <workItem from="1712901375186" duration="209000" />
+      <workItem from="1712901682432" duration="309000" />
+      <workItem from="1712902064601" duration="444000" />
+    </task>
+    <task id="LOCAL-00001" summary="Checking for changes">
+      <option name="closed" value="true" />
+      <created>1712623690474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712623690474</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished my Portfolio">
+      <option name="closed" value="true" />
+      <created>1712798887675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712798887675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="trying to publish the page.">
+      <option name="closed" value="true" />
+      <created>1712898910482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712898910482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="trying to publish the page.">
+      <option name="closed" value="true" />
+      <created>1712899849127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712899849127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="trying to publish the page.">
+      <option name="closed" value="true" />
+      <created>1712900081107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712900081108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="reverted changes after trying to publish">
+      <option name="closed" value="true" />
+      <created>1712902139892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712902139892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Checking for changes" />
+    <MESSAGE value="Finished my Portfolio" />
+    <MESSAGE value="trying to publish the page." />
+    <MESSAGE value="reverted changes after trying to publish" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverted changes after trying to publish" />
+  </component>
+</project>

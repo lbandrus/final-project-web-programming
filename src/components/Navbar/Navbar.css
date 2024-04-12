@@ -1,0 +1,51 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  border-radius: 48px;
+  padding: 0 0.83vw;
+  border: 1px solid var(--border-color);
+}
+
+.navbar ul {
+  text-align: center;
+  display: flex;
+  column-gap: 24px;
+  padding: 0 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  color: var(--highlight-color);
+}
+
+.link:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--content-color);
+}
+
+.span-line {
+  display: flex;
+  height: 38px;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(
+      to left,
+      var(--primary-color) 14.58%,
+      var(--content-color) 49.8%,
+      var(--primary-color) 86.94%
+    )
+    left bottom var(--primary-color) no-repeat;
+  background-size: 100% 1px;
+}
+
+.active {
+  color: var(--content-color);
+  text-decoration: none;
+}
+
+.dropdown {
+  position: relative;
+  z-index: 1;
+}
